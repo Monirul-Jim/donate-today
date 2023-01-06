@@ -1,0 +1,65 @@
+.my{
+    background-image: url("donation5.jpg");
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-size: cover;
+     text-align: center;
+     justify-content: center;
+    padding: 160px 150px;
+    color: whitesmoke;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+.btn{
+    margin: 20px;
+    padding: 10px;
+    background-color:#ff5959;
+    border: none;
+    color: white;
+}
+.don{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.donate-today{
+    text-align: center;
+    margin: 130px;
+}
+.li{
+   display: flex;
+   gap: 30px;
+   padding: 30px;
+}
+.taka{
+    padding: 30px;
+    background-color: #FAFAFA;
+    color: #707070;
+    font-size: 30px;
+    font-weight: 700;
+    align-items: center;
+}
+.tak{
+    padding: 30px;
+    background-color: #FF5959;
+    border: 1px solid #FF5959;
+    color: red;
+    font-size: 30px;
+    font-weight: 700;
+    align-items: center;
+}
+.but{
+    border: none;
+    gap: 3px;
+}
+.other{
+    margin: 30px;
+    border: none;
+    Font-family: Poppins;
+    Font-style: Regular;
+    Font-size: 25px;
+    Line-height: 28px;
+    Line-height: 104%;
+}
