@@ -63,3 +63,44 @@
     Line-height: 28px;
     Line-height: 104%;
 }
+/* donate plan */
+.doit{
+ text-align: center;
+}
+.our{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.need{
+     display: flex; 
+    /* margin: 0 900px; */
+    gap: 47px;
+    justify-content: center;
+}
+.food{
+    padding: 30px;
+    background-color: #707070;
+    width: 300px;
+    height: 360px;
+}
+.shelter{
+    padding: 30px;
+    background-color: #FF5959;
+    width: 300px;
+    height: 360px;
+}
+.frame{
+    padding: 30px;
+    background-color: #aa7c7c;
+    width: 300px;
+    height: 360px;
+}
+ /* depend on your donation */
+.donation{
+    margin: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
